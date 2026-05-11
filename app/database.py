@@ -10,5 +10,3 @@ expense_collection = db.expenses
 
 log_collection = db.logs
 
-#PASSSWORD
-#9VUZ78czRcevJm7m
